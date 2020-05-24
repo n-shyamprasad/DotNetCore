@@ -1,0 +1,4 @@
+/home/jaishnav/DotNetCore/model/obj/Debug/netstandard2.0/model.csprojAssemblyReference.cache
+/home/jaishnav/DotNetCore/model/obj/Debug/netstandard2.0/model.AssemblyInfoInputs.cache
+/home/jaishnav/DotNetCore/model/obj/Debug/netstandard2.0/model.AssemblyInfo.cs
+/home/jaishnav/DotNetCore/model/obj/Debug/netstandard2.0/model.csproj.CoreCompileInputs.cache

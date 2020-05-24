@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWX/9e7Se0lBnvHZpz6eD+DH0UW+VN2P59EnirpBmssE7kRQuxIuiGqea67cfflnEy+mK/3bDG1kUU3eolkY6Q==",
+  "success": true,
+  "projectFilePath": "/home/jaishnav/DotNetCore/linq/aggregate/aggregate.csproj",
+  "expectedPackageFiles": [
+    "/home/jaishnav/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

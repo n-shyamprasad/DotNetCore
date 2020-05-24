@@ -1,0 +1,9 @@
+/home/jaishnav/DotNetCore/model/obj/Debug/netcoreapp3.1/model.csprojAssemblyReference.cache
+/home/jaishnav/DotNetCore/model/obj/Debug/netcoreapp3.1/model.AssemblyInfoInputs.cache
+/home/jaishnav/DotNetCore/model/obj/Debug/netcoreapp3.1/model.AssemblyInfo.cs
+/home/jaishnav/DotNetCore/model/obj/Debug/netcoreapp3.1/model.csproj.CoreCompileInputs.cache
+/home/jaishnav/DotNetCore/model/bin/Debug/netcoreapp3.1/model.deps.json
+/home/jaishnav/DotNetCore/model/bin/Debug/netcoreapp3.1/model.dll
+/home/jaishnav/DotNetCore/model/bin/Debug/netcoreapp3.1/model.pdb
+/home/jaishnav/DotNetCore/model/obj/Debug/netcoreapp3.1/model.dll
+/home/jaishnav/DotNetCore/model/obj/Debug/netcoreapp3.1/model.pdb

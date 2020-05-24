@@ -1,0 +1,13 @@
+/home/jaishnav/DotNetCore/linq/concatenation/bin/Debug/netcoreapp3.1/concatenation
+/home/jaishnav/DotNetCore/linq/concatenation/bin/Debug/netcoreapp3.1/concatenation.deps.json
+/home/jaishnav/DotNetCore/linq/concatenation/bin/Debug/netcoreapp3.1/concatenation.runtimeconfig.json
+/home/jaishnav/DotNetCore/linq/concatenation/bin/Debug/netcoreapp3.1/concatenation.runtimeconfig.dev.json
+/home/jaishnav/DotNetCore/linq/concatenation/bin/Debug/netcoreapp3.1/concatenation.dll
+/home/jaishnav/DotNetCore/linq/concatenation/bin/Debug/netcoreapp3.1/concatenation.pdb
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.csprojAssemblyReference.cache
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.AssemblyInfoInputs.cache
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.AssemblyInfo.cs
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.csproj.CoreCompileInputs.cache
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.dll
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.pdb
+/home/jaishnav/DotNetCore/linq/concatenation/obj/Debug/netcoreapp3.1/concatenation.genruntimeconfig.cache
