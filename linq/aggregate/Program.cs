@@ -12,6 +12,8 @@ namespace aggregate
             AverageSample2.AverageSample2_Example();
             AverageSample3.QuerySyntaxExample();
             AverageSample3.MethodSyntaxExample();
+            CountSample1.QuerySyntaxExample();
+            CountSample1.MethodSyntaxExample();
         }
     }
 }
