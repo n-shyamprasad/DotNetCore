@@ -1,0 +1,13 @@
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.csprojAssemblyReference.cache
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.AssemblyInfoInputs.cache
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.AssemblyInfo.cs
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.csproj.CoreCompileInputs.cache
+/home/jaishnav/DotNetCore/linq/customsequence/bin/Debug/netcoreapp3.1/customsequence
+/home/jaishnav/DotNetCore/linq/customsequence/bin/Debug/netcoreapp3.1/customsequence.deps.json
+/home/jaishnav/DotNetCore/linq/customsequence/bin/Debug/netcoreapp3.1/customsequence.runtimeconfig.json
+/home/jaishnav/DotNetCore/linq/customsequence/bin/Debug/netcoreapp3.1/customsequence.runtimeconfig.dev.json
+/home/jaishnav/DotNetCore/linq/customsequence/bin/Debug/netcoreapp3.1/customsequence.dll
+/home/jaishnav/DotNetCore/linq/customsequence/bin/Debug/netcoreapp3.1/customsequence.pdb
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.dll
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.pdb
+/home/jaishnav/DotNetCore/linq/customsequence/obj/Debug/netcoreapp3.1/customsequence.genruntimeconfig.cache

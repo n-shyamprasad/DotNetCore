@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concatenation", "linq\conca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model", "model\model.csproj", "{34D3D2ED-C2F4-4678-B794-7029257D17BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customsequence", "linq\customsequence\customsequence.csproj", "{C05E4E5C-F49F-48FD-926E-367E0E429AEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,8 +74,21 @@ Global
 		{34D3D2ED-C2F4-4678-B794-7029257D17BA}.Release|x64.Build.0 = Release|Any CPU
 		{34D3D2ED-C2F4-4678-B794-7029257D17BA}.Release|x86.ActiveCfg = Release|Any CPU
 		{34D3D2ED-C2F4-4678-B794-7029257D17BA}.Release|x86.Build.0 = Release|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Debug|x64.Build.0 = Debug|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Debug|x86.Build.0 = Debug|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Release|x64.ActiveCfg = Release|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Release|x64.Build.0 = Release|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Release|x86.ActiveCfg = Release|Any CPU
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EB213863-B147-43D2-81C9-78CAD0AFF14F} = {4B8211E9-3768-49A6-8A62-6EEB3EE5DFEE}
+		{C05E4E5C-F49F-48FD-926E-367E0E429AEF} = {4B8211E9-3768-49A6-8A62-6EEB3EE5DFEE}
 	EndGlobalSection
 EndGlobal

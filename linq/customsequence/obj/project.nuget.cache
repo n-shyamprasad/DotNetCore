@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UACfRxSoF33iP8GK2PZ+999E+SqlBsCMoZWFADPxkijkut4KfVmXgZXOtsemkXEOd99tSiMjokPfwPv82NvRiQ==",
+  "success": true,
+  "projectFilePath": "/home/jaishnav/DotNetCore/linq/customsequence/customsequence.csproj",
+  "expectedPackageFiles": [
+    "/home/jaishnav/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

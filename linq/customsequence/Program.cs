@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace concatenation
+namespace customsequence
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Concatsample1.MethodSyntaxExample();
+            CustomSequenceSample1.Example();
         }
     }
 }
